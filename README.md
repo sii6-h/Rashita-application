@@ -1,4 +1,4 @@
-# 🌿 Rashita – Smart Medication Management System
+#  Rashita – Smart Medication Management System
 
 ---
 
